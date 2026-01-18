@@ -1,0 +1,101 @@
+Name,Age,Email,Country,Salary,Join_Date,Phone_Number,Address,Job_Title,Notes
+,18,,United States,50000,2020-11-31,invalid,"? Ikorodu Rd, PH",Helper,Duplicate
+  Jane L.,thirty,noemail,,,2022-01-01,invalid,"7 Main St, PH",Intern,Duplicate
+,,noemail,NIGERIA,52000,2020-01-05,+2341518524025,"  Broadway, None", , 
+ Li  Okoro,22,#,NIGERIA,70000 ,,+2349166955266,"45B Olu Obasanjo, None",Technician,Duplicate
+SUSAN OKORO,N/A,#,UAE,not available,2021/13/01,invalid,"? Olu Obasanjo, PH",Helper,Good candidate
+,N/A,#,United States,50000,2022/03/20,invalid,"? ,  ",Data Analyst,Duplicate
+Aisha   Garcia,35,aishagarcia@gmail,UK,70000 ,2020-11-31,+2343894146403,"7 Main St,  ",Mud Engineer,
+,,#,UAE,45000,2020-00-12,0703-2390161,"7 Ikorodu Rd, Kano",,
+  Anna I.,40,annai.@gmail,UK,error,2021-07-15,N/A,"? Broadway, Kano",Data Analyst,Duplicate
+ Wei  Okoro, 31 ,,USA,52k,2020-01-05,,"None Ikorodu Rd, Lagos",Mud Engineer, 
+  Bob S.,35,bobs.@mail.com,USA,52000,2021/13/01,+2349220598436,"45B , PH",Mud Engineer,Needs review
+,N/A,,United States,52k,2022/03/20,+2343164269413,"? Ikorodu Rd, Kano",Technician,Entry incomplete
+WEI O'CONNOR,N/A,,United Kingdom,52000,2021/13/01,08087462952,"7 Aba Rd,  ",Technician,See supervisor
+  Mohammed S.,22,mohammeds.@@broken.com,Naija,"55,000",2020-11-31,invalid,"45B Ikorodu Rd, Abuja",Senior Engineer,Duplicate
+Wei   Garcia, 31 ,weigarcia@test@,,,2021/13/01,,"  Broadway, Abuja",Mud Engineer,See supervisor
+anna ali ,29,,UAE,70000,2020-11-31,0703-5951980,"45B Olu Obasanjo, None",Data Analyst,Check details
+Anna   Garcia,,,,error,2020-01-05,invalid,"  Aba Rd,  ",Senior Engineer,Check details
+ANNA SMITH,N/A,#,us,50000,2020-01-05,0703-4169525,"? Main St,  ",,Entry incomplete
+aisha doe ,29,aishadoe@@broken.com,NIGERIA,error,05/02/2021,+2345461704436,"? Broadway, Abuja", ,??
+john kumar ,N/A,,UAE,error,2021-07-15,08081239823,"12 Sapele Rd, PH",Technician,Good candidate
+,29,x@mail.com,United States,,2020-14-10,,"12 Aba Rd, Abuja",Helper,
+ Li  Ivanov,??,@@,uae,60000,2021/13/01,,"  Aba Rd, PH",Mud Engineer,Needs review
+aisha kumar ,30,aishakumar@example.com,NIGERIA,,2022-01-01,0703-0961913,"  Olu Obasanjo, None",Helper,Check details
+ Mohammed  Kumar,??,,uae,70000 ,2021-07-15,0703-7279072,"? Sapele Rd, Abuja", ,Good candidate
+aisha ivanov ,thirty,noemail,UK,not available,2020-11-31,,"? , Lagos",Helper,See supervisor
+,22,x@example.com,America,45000,2022/03/20,+2344720832979,"None Sapele Rd, Lagos",Mud Engineer, 
+  Wei O.,22,weio.@mail.com,USA,50000,2022-01-01,0703-3064820,"  Broadway, Lagos",Mud Engineer,??
+WEI IVANOV,N/A,@@,Naija,not available,2022/03/20,0703-6013570,"45B Sapele Rd, Kano",Senior Engineer,Entry incomplete
+  Tunde G., 31 ,tundeg.@@broken.com,,"55,000",2022-01-01,invalid,"7 , Abuja", ,See supervisor
+Susan   Kumar,,susankumar@@broken.com,UAE,50000,2022-01-01,0703-1839405,"? Aba Rd, Kano",Intern,
+WEI IVANOV, 31 ,weiivanov@example.com,America,52000,2020-11-31,invalid,"None Ikorodu Rd, Kano", ,Duplicate
+  Li L.,18,noemail,UK,50000,05/02/2021,N/A,"  Olu Obasanjo,  ", ,Check details
+,25,x@test@,United Kingdom,50000,2021-07-15,,"100 Main St, Abuja",Helper,
+,N/A,x@test@,us,60000,2020-00-12,0703-0279875,"? Aba Rd, Lagos",,Good candidate
+GRACE IVANOV,??,graceivanov@example.com,Naija,not available,2020-14-10,08038892034,"? Main St, PH",Technician,Needs review
+  Li I.,??,lii.@example.com,us,70000 ,,N/A,"? Aba Rd, Abuja",Intern,See supervisor
+  Tunde G., 31 ,,UAE,45000,2020-00-12,+2342879038650,"None Olu Obasanjo, Lagos",Mud Engineer,Check details
+  Bob L.,25,bobl.@@broken.com,us,50000,2022/03/20,+2348635782104,"? Aba Rd, PH",Senior Engineer,Check details
+  Li I.,25,noemail,Naija,45000,,0703-4042152,"45B , Abuja",Mud Engineer,Duplicate
+,thirty,noemail,NIGERIA,60000,2021-07-15,0703-5303283,"  , PH",Senior Engineer,
+ Aisha  Lee,N/A,aishalee@mail.com,us,70000 ,2020-14-10,invalid,"12 , Lagos",Mud Engineer,Entry incomplete
+,40,x@gmail,uae,,2020-01-05,N/A,"  Main St, PH",Mud Engineer,Good candidate
+, 31 ,x@example.com,NIGERIA,error,,08081621069,"? Sapele Rd, Kano",Data Analyst, 
+Mohammed   Garcia,35,#,United Kingdom,"55,000",2020-14-10,invalid,"12 Sapele Rd, Lagos",Intern,Check details
+  Anna K., 31 ,noemail,USA,52000,2020-01-05,N/A,"7 Olu Obasanjo, Abuja",Intern,Good candidate
+LI OKORO,N/A,#,us,"55,000",,0703-7666918,"? Main St, Lagos", ,
+ Michael  Smith,N/A,michaelsmith@@broken.com,,52000,2022/03/20,N/A,"7 Olu Obasanjo, Lagos",Senior Engineer,??
+  Li A., 31 ,lia.@gmail,NIGERIA,not available,,,"100 , Kano",Senior Engineer,Entry incomplete
+  Wei O.,29,,uae,error,,N/A,"7 , None",Helper, 
+li garcia ,40,@@,USA,70000 ,2020-01-05,invalid,"  Olu Obasanjo, None",Intern,Check details
+JOHN LEE,40,,NIGERIA,"55,000",2022/03/20,+2344491716791,"45B , None",,Duplicate
+ Grace  Doe,35,gracedoe@mail.com,us,50000,2022-01-01,08014018046,"  ,  ",Data Analyst,
+,30,noemail,uae,"55,000",2020-00-12,+2342433512694,"45B , Kano",Data Analyst,Good candidate
+Anna   Okoro,30,annaokoro@gmail,us,70000 ,2021/13/01,+2348921916409,"100 Aba Rd, Kano",Mud Engineer,See supervisor
+michael doe ,thirty,,,not available,,,"None Main St, PH",Senior Engineer, 
+Susan   Smith, 31 ,noemail,,52000,,invalid,"12 , Kano", ,Entry incomplete
+jane ali ,18,janeali@gmail,United States,,05/02/2021,08054230493,"? Aba Rd, Lagos",Data Analyst,See supervisor
+ Anna  Okoro,N/A,noemail,USA,70000,05/02/2021,,"None Ikorodu Rd, Kano",Technician,Needs review
+grace smith ,18,gracesmith@gmail,America,45000,,08017236641,"  Broadway,  ",Senior Engineer,Needs review
+Bob   Ali,,,,52000,2020-11-31,,"100 Main St, Lagos",Technician,
+Jane   Kumar,22,janekumar@mail.com,,52000,2022-01-01,,"12 Aba Rd, Abuja",Helper, 
+,thirty,,,60000,2020-11-31,08050561715,"None Olu Obasanjo, None",Technician,Good candidate
+aisha garcia ,thirty,aishagarcia@test@,,not available,2021-07-15,invalid,"  Ikorodu Rd, PH", ,
+,,#,uae,"55,000",2020-14-10,+2345137639581,"12 Broadway, Lagos", ,Good candidate
+Mohammed   Smith,??,mohammedsmith@test@,United Kingdom,70000,2020-00-12,N/A,"None Olu Obasanjo, Lagos",Intern,
+susan o'connor ,thirty,@@,America,,2020-00-12,,"45B , PH",Helper, 
+Grace   Garcia,??,@@,UAE,70000 ,2020-00-12,0703-3696429,"  , None",Mud Engineer,Needs review
+,N/A,#,Naija,error,,,"? Sapele Rd, None",Senior Engineer,Duplicate
+AISHA DOE,29,aishadoe@gmail,NIGERIA,45000,2022-01-01,N/A,"45B Broadway, Kano",Technician,Check details
+BOB DOE,??,bobdoe@@broken.com,United Kingdom,50000,2022/03/20,08066392325,"  Olu Obasanjo, PH",Technician,
+ Anna  Okoro,30,#,,,2020-11-31,invalid,"7 Olu Obasanjo,  ",Technician,See supervisor
+ Jane  Ali,18,janeali@mail.com,us,50000,2020-11-31,08025520377,"None Sapele Rd,  ",,Entry incomplete
+,??,x@example.com,Naija,45000,,N/A,"100 , None",Intern,Duplicate
+,25,@@,UAE,52k,2020-14-10,08035135236,"12 Main St, None", ,Good candidate
+  Li O.,25,#,United Kingdom,not available,2020-14-10,0703-0717028,"  , Lagos",Data Analyst,See supervisor
+,,x@example.com,America,not available,2020-01-05,08035591418,"7 Sapele Rd, Abuja",Mud Engineer,Needs review
+  Anna L.,22,#,United Kingdom,50000,2021-07-15,,"7 Ikorodu Rd, Kano",Senior Engineer,Check details
+  Tunde I.,,@@,Naija,error,2022/03/20,,"12 Main St, PH",Data Analyst, 
+ Anna  Kumar, 31 ,noemail,NIGERIA,not available,2020-00-12,08098511220,"  Olu Obasanjo, None",Intern, 
+  Anna O.,thirty,#,Naija,70000,2020-11-31,,"  Aba Rd,  ",Senior Engineer,Needs review
+aisha doe ,??,@@,USA,60000,,0703-7057116,"100 Sapele Rd, Kano",Intern,Duplicate
+ Li  Garcia,22,,United States,70000,2021-07-15,+2342124534827,"? Ikorodu Rd, Abuja",Mud Engineer,Duplicate
+jane kumar ,thirty,@@,UK,,2021/13/01,N/A,"100 Main St,  ",Intern,Good candidate
+  Bob K.,22,#,,52000,2020-14-10,,"12 Olu Obasanjo, Abuja",Intern,See supervisor
+  Michael S.,40,michaels.@@broken.com,United States,70000 ,2020-01-05,,"? Broadway, Kano",Mud Engineer,Needs review
+JANE IVANOV,35,janeivanov@test@,Naija,,2020-01-05,,"12 Ikorodu Rd, PH",, 
+ Mohammed  Ali,40,mohammedali@gmail,USA,52k,2020-11-31,+2340142975725,"None Broadway, PH",Mud Engineer,
+ Aisha  Kumar,??,noemail,uae,45000,05/02/2021,08052204376,"None Olu Obasanjo,  ",Data Analyst,Needs review
+,22,#,us,45000,2020-01-05,invalid,"7 Sapele Rd, Kano",Senior Engineer,Good candidate
+Anna   Doe,thirty,annadoe@mail.com,United States,,,+2340242851803,"  Olu Obasanjo, Lagos",Technician, 
+,40,@@,America,50000,2022/03/20,0703-1695879,"12 Aba Rd, Abuja",Data Analyst,
+MOHAMMED KUMAR,29,mohammedkumar@@broken.com,Naija,"55,000",2020-01-05,+2340712768631,"? , Lagos", ,??
+LI O'CONNOR,25,#,UK,not available,2022/03/20,,"45B Ikorodu Rd, PH",Technician,See supervisor
+li garcia ,,,uae,"55,000",2020-01-05,+2348670630597,"? Olu Obasanjo, Lagos",Helper,Duplicate
+BOB OKORO,25,bobokoro@gmail,Naija,,05/02/2021,invalid,"100 Broadway, None",Mud Engineer,Check details
+michael lee , 31 ,noemail,America,not available,2020-11-31,N/A,"100 Main St, None",Helper,Needs review
+jane doe ,35,janedoe@mail.com,America,"55,000",2020-11-31,invalid,"7 Olu Obasanjo, None",Mud Engineer,??
+  Grace L.,??,,UK,,2020-01-05,0703-2502622,"7 Sapele Rd, Abuja",Data Analyst,Entry incomplete
+LI SMITH,29,#,USA,50000,2021-07-15,0703-0004383,"None Aba Rd, PH",Mud Engineer,??
+aisha lee ,??,noemail,NIGERIA,,2020-00-12,0703-9206910,"45B Sapele Rd, None",Intern,Entry incomplete
